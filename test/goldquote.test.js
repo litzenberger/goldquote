@@ -1,2 +1,2 @@
 var goldquote= require('..');
-goldquote();
+goldquote(function(price){console.log(price)});
