@@ -1,0 +1,2 @@
+var goldquote= require('..');
+goldquote();
